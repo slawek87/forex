@@ -8,7 +8,7 @@ HOW TO INSTALL:
 
 HOW TO RUN:
 
-bash```
+```
 cd forex_app
 docker build -t forex_app:latest .
 docker run -p 5000:5000 forex_app
