@@ -1,0 +1,2 @@
+-r dev_tools/forex/requirements.txt
+Flask==0.12.2
